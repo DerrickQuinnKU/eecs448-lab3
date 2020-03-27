@@ -1,0 +1,32 @@
+*
+{
+    color: #0051ba;
+    font-family: helvetica;
+
+}
+
+p
+{
+    font-size: 12pt;
+}
+
+
+a:hover
+{
+    color: #e8000d;
+}
+
+h1
+{
+  color: white;
+  background-image:url(https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2019/06/KU20Campus20Wide_1526578637343.jpg_42857698_ver1.0.jpg?resize=2560%2C1440&ssl=1);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2
+{
+  color: black;
+  background-color: #dde5ed;
+}
